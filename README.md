@@ -40,7 +40,9 @@ Before running this project, make sure you have installed:
    ```plaintext
    http://username:password@ip:port
 
-5. **Run the script:**
+5. **Edit solver.js if you want custom solver by other solver captcha**
+
+6. **Run the script:**
    ```plaintext
    node main.js
    
