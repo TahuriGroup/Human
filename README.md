@@ -16,7 +16,7 @@ Before running this project, make sure you have installed:
 
 - Node.js
 - npm (Node Package Manager)
-- 2captcha key (edit solver.js)
+- 2captcha key (edit solve.js)
 
 ## Installation
 
